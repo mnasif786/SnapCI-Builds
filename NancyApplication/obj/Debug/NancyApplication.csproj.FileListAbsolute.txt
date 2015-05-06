@@ -1,0 +1,10 @@
+D:\UtilityProjects\NancyApplication\bin\NancyApplication.dll.config
+D:\UtilityProjects\NancyApplication\bin\NancyApplication.dll
+D:\UtilityProjects\NancyApplication\bin\NancyApplication.pdb
+D:\UtilityProjects\NancyApplication\bin\Nancy.dll
+D:\UtilityProjects\NancyApplication\bin\Nancy.Hosting.Aspnet.dll
+D:\UtilityProjects\NancyApplication\bin\Nancy.xml
+D:\UtilityProjects\NancyApplication\bin\Nancy.Hosting.Aspnet.xml
+D:\UtilityProjects\NancyApplication\obj\Debug\NancyApplication.csprojResolveAssemblyReference.cache
+D:\UtilityProjects\NancyApplication\obj\Debug\NancyApplication.dll
+D:\UtilityProjects\NancyApplication\obj\Debug\NancyApplication.pdb
