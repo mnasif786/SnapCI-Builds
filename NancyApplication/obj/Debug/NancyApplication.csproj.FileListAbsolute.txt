@@ -8,3 +8,14 @@ D:\UtilityProjects\NancyApplication\bin\Nancy.Hosting.Aspnet.xml
 D:\UtilityProjects\NancyApplication\obj\Debug\NancyApplication.csprojResolveAssemblyReference.cache
 D:\UtilityProjects\NancyApplication\obj\Debug\NancyApplication.dll
 D:\UtilityProjects\NancyApplication\obj\Debug\NancyApplication.pdb
+C:\Build\SnapCI-Builds\NancyApplication\bin\NancyApplication.dll.config
+C:\Build\SnapCI-Builds\NancyApplication\bin\NancyApplication.dll
+C:\Build\SnapCI-Builds\NancyApplication\bin\NancyApplication.pdb
+C:\Build\SnapCI-Builds\NancyApplication\bin\Nancy.dll
+C:\Build\SnapCI-Builds\NancyApplication\bin\Nancy.xml
+C:\Build\SnapCI-Builds\NancyApplication\obj\Debug\NancyApplication.csprojResolveAssemblyReference.cache
+C:\Build\SnapCI-Builds\NancyApplication\obj\Debug\NancyApplication.dll
+C:\Build\SnapCI-Builds\NancyApplication\obj\Debug\NancyApplication.pdb
+C:\Build\SnapCI-Builds\NancyApplication\bin\Nancy.Hal.dll
+C:\Build\SnapCI-Builds\NancyApplication\bin\Nancy.Hosting.Aspnet.dll
+C:\Build\SnapCI-Builds\NancyApplication\bin\Nancy.Hosting.Aspnet.xml
